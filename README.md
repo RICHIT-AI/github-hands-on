@@ -72,7 +72,7 @@ Este hands-on sirve para que los miembros de RICH IT se familiaricen con el fluj
    ```bash
    git commit -a
    ```
-   Y escribe: ":books: [docs] Se agrego el perfil de <nombre-correo>"
+   Y escribe: **"\:books\: [docs] Se agrego el perfil de nombre-correo"**
 
    **Sugerencia**: De ser posible hacer uso del formato que se indica en el commando ya que ayuda a identificar el tipo de cambio
 

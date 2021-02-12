@@ -70,8 +70,9 @@ Este hands-on sirve para que los miembros de RICH IT se familiaricen con el fluj
 
 8. Finalmente una vez agrupados los cambios es momento de etiquetarlos con el comando `commit`:
    ```bash
-   git commit -m ":books: [docs] Se agrego el perfil de <nombre-correo>"
+   git commit -a
    ```
+   Y escribe: ":books: [docs] Se agrego el perfil de <nombre-correo>"
 
    **Sugerencia**: De ser posible hacer uso del formato que se indica en el commando ya que ayuda a identificar el tipo de cambio
 

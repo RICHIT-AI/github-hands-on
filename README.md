@@ -1,6 +1,11 @@
 # GitHub Hands-On
 Este hands-on sirve para que los miembros de RICH IT se familiaricen con el flujo de trabajo en GitHub
 
+## Historia
+RICHIT esta desarrollando un nuevo producto, este producto se llama GitHub Hands-on, el producto será un repositorio de GitHub en el que existirá una documento de presentación por cada uno de los colaboradores de GitHub, para ello es necesario que cada uno de ellos suba su archivo de presentación, para coordinar el trabajo en paralelo se emplea el flujo de trabajo de GitFlow que se describe en las instrucciones.
+
+El trabajo se hará en sprints que duran 2 horas, y cada liberación o release quedará disponible cada vez que se acabe 1 sprint, en caso de no poder liberar en 1 sprint la liberación podría esperar 2 sprints. Cada release tendrá su archivo **RELEASE.md** con la descripción de los nuevos cambios agregados.
+
 ## Primeros pasos
 1. Clona este repositorio en local para que puedas trabajar en el:
    ```bash

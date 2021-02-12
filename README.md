@@ -111,7 +111,7 @@ Este hands-on sirve para que los miembros de RICH IT se familiaricen con el fluj
 
     **[doc] `<tu-nombre>`**
     
-    **Nombre:** Perfil de tu-nombre
+    **Nombre:** Perfil de `<tu-nombre>`
 
     **Descripción:** Se actualizó el repositorio con la información del contribuidor(a) `<tu-nombre>` para que todos los miembros del equipo lo conozcan
 

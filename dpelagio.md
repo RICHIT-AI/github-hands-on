@@ -1,0 +1,9 @@
+- Daniel Pelagio Vázquez
+- Ingeniero de Datos
+- ITESM
+- E-global, Tier4, Datos Capital
+- Información Adicional
+    - Videojuegos
+    - Tecnología
+    - Anime
+    - Volleyball

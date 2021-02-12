@@ -72,7 +72,7 @@ Este hands-on sirve para que los miembros de RICH IT se familiaricen con el fluj
    ```bash
    git commit -a
    ```
-   Y escribe: **"\:books\: [docs] Se agrego el perfil de nombre-correo"**
+   Y escribe: **"`:books:` [docs] Se agrego el perfil de nombre-correo"**
 
    **Sugerencia**: De ser posible hacer uso del formato que se indica en el commando ya que ayuda a identificar el tipo de cambio
 
@@ -109,11 +109,11 @@ Este hands-on sirve para que los miembros de RICH IT se familiaricen con el fluj
 
 3. Has un **Pull Request** de tu rama `feature-<nombre-correo>` con la rama `develop` de la siguiente manera:
 
-    **[doc] <tu-nombre>**
+    **[doc] `<tu-nombre>`**
     
-    **Nombre:** Perfil de <tu-nombre>
+    **Nombre:** Perfil de tu-nombre
 
-    **Descripción:** Se actualizó el repositorio con la información del contribuidor(a) <tu-nombre> para que todos los miembros del equipo lo conozcan
+    **Descripción:** Se actualizó el repositorio con la información del contribuidor(a) `<tu-nombre>` para que todos los miembros del equipo lo conozcan
 
     **Funcionalidad:** Con un archivo en Markdown es necesario que el contribuidor(a) publique su perfil y sea visible para todos los miembros del equipo
 

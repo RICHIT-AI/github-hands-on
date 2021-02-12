@@ -7,7 +7,7 @@ Este hands-on sirve para que los miembros de RICH IT se familiaricen con el fluj
    git clone https://github.com/RICHIT-AI/github-hands-on.git
    ```
 
-2. El repositorio tiene 2 ramas (**branch**) la rama `master` y la rama `develop`, posiblemente tenga más ramas como `feature-*` por el momento has caso omiso de estas ramas
+2. El repositorio tiene 2 ramas (**branch**) la rama `main` y la rama `develop`, posiblemente tenga más ramas como `feature-*` por el momento has caso omiso de estas ramas
 
 3. Desde tu terminal cambiate a la rama `develop` con el siguiente comando, ***es importante que hagas esto, de lo contrario podrías perderte de los ultimos cambios en desarrollo***
    ```bash
@@ -25,7 +25,7 @@ Este hands-on sirve para que los miembros de RICH IT se familiaricen con el fluj
    ```bash
       develop
     * feature-<nombre-correo>
-      master
+      main
     ```
 6. Posteriormente actualiza el repositorio que se encuentra en GitHub con tu rama:
    ```bash
@@ -130,5 +130,5 @@ Este hands-on sirve para que los miembros de RICH IT se familiaricen con el fluj
 
 ## Liberación del software
 1. Una vez que todos hayan hecho su **merge** a la rama develop el laboratorio ha concluido, y los administradores de el repositorio crearán una rama **release-vX.X.X** que será revisada durante el transcurso de la siguiente semana al laboratorio por todos los involucrados en el **Hands-on** 
-2. Una vez que todos los involucrados estén satisfechos con la rama **release-vX.X.X** se hará un merge de esta rama con **develop** y con **master**, la rama master se le etiquetará con el número de versión del release
+2. Una vez que todos los involucrados estén satisfechos con la rama **release-vX.X.X** se hará un merge de esta rama con **develop** y con **main**, la rama **main** se le etiquetará con el número de versión del release
 3. Se eliminará finalmente la rama **release-vX.X.X**

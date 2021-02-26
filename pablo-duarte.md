@@ -1,0 +1,4 @@
+nombre: Pablo Eduardo Duarte Tzuc[B
+puesto en RICH IT: Estancia
+Escuela: Universidad Politecnia de Yucatan
+informacion personal: * hacer ejercicio, leer, aprender cosas nuevas, [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[[[C[C*[D[[D*[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[Dme gusta hacer ejercicios, leer, aprender nuevas cosas, conocer nuevos lugares, [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[[C[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[D[D[D[C y personas, [A[D[D[D[D[D[D[D[D[D[[CM[B[Ae[D[[C[C [[DMe[C[C[B[C[C[C[C[C[C etc.
